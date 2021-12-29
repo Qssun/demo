@@ -1,0 +1,22 @@
+{
+    "min_length_line": 5,
+    "max_img_size": 5000,
+    "save_result_path": "result/20211228",
+    "yolo_model_path": "runs/train/exp100/weights/best.pt",
+    "device": "",
+    "ocr": true,
+    "show": false,
+    "save_img": true,
+    "save_crop_img": false,
+    "render": false,
+    "mul_process": true,
+    "config_path": "data/config_process.json",
+    "test_img_path": [
+        "../data/sample/labelme/one_labelme/001.png",
+        "../data/sample/labelme/one_labelme/002.png"
+    ],
+    "test_img_path_1": [
+        "../data/sample/labelme/one_labelme/001.png",
+        "../data/sample/labelme/one_labelme/002.png"
+    ]
+}

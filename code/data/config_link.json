@@ -1,0 +1,167 @@
+{
+    "demo": {
+        "label": -1,
+        "no": "该组件的编号",
+        "type": "cell，connection，sign中的一种",
+        "second_type": "若type为sign，则为letter，number，symbol和chinese中一种，若type不为sign，则为空",
+        "direction": [
+            "若type为connection，则前:-1位为W、S、E、N中的一种（东南西北），最后一位为0或1,0表示连接点从中心引出，1表示连接点有偏移，若type不为connection，则为空"
+        ],
+        "connection_number": [
+            "依据连接点数的常用度仅排序,例如一进一出的阀门的连接点为2，连接两个元件之前的连接点的连接数为2，0代表连接点数任意"
+        ],
+        "height_width": [
+            "长边与短边的比值,依据标记结果自动计算保存",
+            "比值上下浮动的百分比"
+        ],
+        "chinese_name": "组件的中文名称",
+        "info": "关于该组件的描述信息。",
+        "sample_path": [
+            "示例图像的路径，依据标记结果自动生成"
+        ]
+    },
+    "cell_0": {
+        "label": 0,
+        "no": "cell_0",
+        "type": "cell",
+        "second_type": "",
+        "connection_number": [1],
+        "height_width": [
+            2.066,
+            2.143,
+            1.889
+        ],
+        "chinese_name": "与其他系统的接口",
+        "info": "与其他系统的接口",
+        "sample_path": [
+            "../data/samples/0\\0.png",
+            "../data/samples/0\\1.png"
+        ]
+    },
+    "cell_1": {
+        "label": 1,
+        "no": "cell_1",
+        "type": "cell",
+        "second_type": "",
+        "connection_number": [2],
+        "height_width": [
+            2.152,
+            2.308,
+            1.5
+        ],
+        "chinese_name": "阀门",
+        "info": "阀门",
+        "sample_path": [
+            "../data/samples/1\\0.png",
+            "../data/samples/1\\1.png",
+            "../data/samples/1\\9.png"
+        ]
+    },
+    "cell_2": {
+        "label": 2,
+        "no": "cell_2",
+        "type": "cell",
+        "second_type": "",
+        "connection_number": [2],
+        "height_width": [
+            1.796,
+            2.125,
+            1.5
+        ],
+        "chinese_name": "法兰",
+        "info": "法兰",
+        "sample_path": [
+            "../data/samples/2\\0.png",
+            "../data/samples/2\\1.png",
+            "../data/samples/2\\9.png"
+        ]
+    },
+    "conn_0": {
+        "label": 3,
+        "no": "conn_0",
+        "type": "conn",
+        "second_type": "",
+        "connection_number": [3],
+        "height_width": [
+            1.868,
+            2.125,
+            1.5
+        ],
+        "direction": [
+            "W", "E" ,"S"
+        ],
+        "chinese_name": "三交叉东西南",
+        "info": "三交叉东西南",
+        "sample_path": [
+            "../data/samples/3\\0.png",
+            "../data/samples/3\\1.png",
+            "../data/samples/3\\9.png"
+        ]
+    },
+    "conn_1": {
+        "label": 4,
+        "no": "conn_1",
+        "type": "conn",
+        "second_type": "",
+        "connection_number": [2],
+        "height_width": [
+            1.833,
+            2.125,
+            1.364
+        ],
+        "direction": [
+            "E" ,"N"
+        ],
+        "chinese_name": "两交叉东北",
+        "info": "两交叉东北",
+        "sample_path": [
+            "../data/samples/4\\0.png",
+            "../data/samples/4\\1.png",
+            "../data/samples/4\\9.png"
+        ]
+    },
+    "conn_2": {
+        "label": 5,
+        "no": "conn_2",
+        "type": "conn",
+        "second_type": "",
+        "connection_number": [2],
+        "height_width": [
+            1.833,
+            2.125,
+            1.364
+        ],
+        "direction": [
+            "W","N"
+        ],
+        "chinese_name": "两交叉西北",
+        "info": "两交叉西北",
+        "sample_path": [
+            "../data/samples/4\\0.png",
+            "../data/samples/4\\1.png",
+            "../data/samples/4\\9.png"
+        ]
+    },
+    "conn_3": {
+        "label": 6,
+        "no": "conn_3",
+        "type": "conn",
+        "second_type": "",
+        "connection_number": [1],
+        "height_width": [
+            1.833,
+            2.125,
+            1.364
+        ],
+        "direction": [
+            "W"
+        ],
+        "chinese_name": "一交叉东",
+        "info": "一交叉东",
+        "sample_path": [
+            "../data/samples/4\\0.png",
+            "../data/samples/4\\1.png",
+            "../data/samples/4\\9.png"
+        ]
+    }
+}

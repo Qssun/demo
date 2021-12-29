@@ -1,0 +1,4668 @@
+{
+    "name1000": {
+        "label": 1000,
+        "no": "name1000",
+        "type": "cell",
+        "link_num": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [],
+        "has_tab": "False",
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "height_width": [],
+        "show": "False",
+        "chinese_name": "未给定label的元件将被赋予这个label（1000）",
+        "description": "这是元件0",
+        "samples_path": []
+    },
+    "name1001": {
+        "label": 1001,
+        "no": "name0",
+        "type": "conn",
+        "link_num": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VE"
+        ],
+        "has_tab": "False",
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "height_width": [],
+        "show": "False",
+        "chinese_name": "元件0",
+        "description": "这是元件0",
+        "samples_path": []
+    },
+    "name1002": {
+        "label": 1002,
+        "no": "name0",
+        "type": "conn",
+        "link_num": [
+            0,
+            1,
+            0,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VE"
+        ],
+        "has_tab": "False",
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "height_width": [],
+        "show": "False",
+        "chinese_name": "元件0",
+        "description": "这是元件0",
+        "samples_path": []
+    },
+    "name1003": {
+        "label": 1003,
+        "no": "name0",
+        "type": "conn",
+        "link_num": [
+            0,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VE"
+        ],
+        "has_tab": "False",
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "height_width": [],
+        "show": "False",
+        "chinese_name": "元件0",
+        "description": "这是元件0",
+        "samples_path": []
+    },
+    "name1004": {
+        "label": 1004,
+        "no": "name0",
+        "type": "conn",
+        "link_num": [
+            0,
+            0,
+            0,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VE"
+        ],
+        "has_tab": "False",
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "height_width": [],
+        "show": "False",
+        "chinese_name": "元件0",
+        "description": "这是元件0",
+        "samples_path": []
+    },
+    "name1005": {
+        "label": 1005,
+        "no": "name0",
+        "type": "conn",
+        "link_num": [
+            1,
+            1,
+            0,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VE"
+        ],
+        "has_tab": "False",
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "height_width": [],
+        "show": "False",
+        "chinese_name": "元件0",
+        "description": "这是元件0",
+        "samples_path": []
+    },
+    "name1006": {
+        "label": 1006,
+        "no": "name0",
+        "type": "conn",
+        "link_num": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VE"
+        ],
+        "has_tab": "False",
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "height_width": [],
+        "show": "False",
+        "chinese_name": "元件0",
+        "description": "这是元件0",
+        "samples_path": []
+    },
+    "name1007": {
+        "label": 1007,
+        "no": "name0",
+        "type": "conn",
+        "link_num": [
+            0,
+            0,
+            1,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VE"
+        ],
+        "has_tab": "False",
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "height_width": [],
+        "show": "False",
+        "chinese_name": "元件0",
+        "description": "这是元件0",
+        "samples_path": []
+    },
+    "name1008": {
+        "label": 1008,
+        "no": "name0",
+        "type": "conn",
+        "link_num": [
+            1,
+            0,
+            0,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VE"
+        ],
+        "has_tab": "False",
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "height_width": [],
+        "show": "False",
+        "chinese_name": "元件0",
+        "description": "这是元件0",
+        "samples_path": []
+    },
+    "name1009": {
+        "label": 1009,
+        "no": "name0",
+        "type": "conn",
+        "link_num": [
+            1,
+            1,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VE"
+        ],
+        "has_tab": "False",
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "height_width": [],
+        "show": "False",
+        "chinese_name": "元件0",
+        "description": "这是元件0",
+        "samples_path": []
+    },
+    "name1010": {
+        "label": 1010,
+        "no": "name0",
+        "type": "conn",
+        "link_num": [
+            0,
+            1,
+            1,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VE"
+        ],
+        "has_tab": "False",
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "height_width": [],
+        "show": "False",
+        "chinese_name": "元件0",
+        "description": "这是元件0",
+        "samples_path": []
+    },
+    "name1011": {
+        "label": 1011,
+        "no": "name0",
+        "type": "conn",
+        "link_num": [
+            1,
+            0,
+            1,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VE"
+        ],
+        "has_tab": "False",
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "height_width": [],
+        "show": "False",
+        "chinese_name": "元件0",
+        "description": "这是元件0",
+        "samples_path": []
+    },
+    "name1012": {
+        "label": 1012,
+        "no": "name0",
+        "type": "conn",
+        "link_num": [
+            1,
+            1,
+            0,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VE"
+        ],
+        "has_tab": "False",
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "height_width": [],
+        "show": "False",
+        "chinese_name": "元件0",
+        "description": "这是元件0",
+        "samples_path": []
+    },
+    "name1013": {
+        "label": 1013,
+        "no": "name0",
+        "type": "conn",
+        "link_num": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VE"
+        ],
+        "has_tab": "False",
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "height_width": [],
+        "show": "False",
+        "chinese_name": "元件0",
+        "description": "这是元件0",
+        "samples_path": []
+    },
+    "name1014": {
+        "label": 1014,
+        "no": "name0",
+        "type": "conn",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VE"
+        ],
+        "has_tab": "False",
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "height_width": [],
+        "show": "False",
+        "chinese_name": "元件0",
+        "description": "这是元件0",
+        "samples_path": []
+    },
+    "name1015": {
+        "label": 1015,
+        "no": "name0",
+        "type": "conn",
+        "link_num": [
+            0,
+            1,
+            0,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VE"
+        ],
+        "has_tab": "False",
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "height_width": [],
+        "show": "False",
+        "chinese_name": "元件0",
+        "description": "这是元件0",
+        "samples_path": []
+    },
+    "name0": {
+        "label": 0,
+        "no": "ELGV",
+        "chinese_name": "文字标注信息",
+        "link_num": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "sign",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name1": {
+        "label": 1,
+        "no": "ELGV",
+        "chinese_name": "电动闸阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VN",
+            "VB"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name2": {
+        "label": 2,
+        "no": "PNGV",
+        "chinese_name": "气动闸阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VN"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name3": {
+        "label": 3,
+        "no": "DICV",
+        "chinese_name": "隔膜控制阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VN"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name4": {
+        "label": 4,
+        "no": "REGV",
+        "chinese_name": "遥控电动闸阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VN"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name5": {
+        "label": 5,
+        "no": "SAVA",
+        "chinese_name": "安全阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VZ"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name6": {
+        "label": 6,
+        "no": "MDVA",
+        "chinese_name": "手动隔膜阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VP",
+            "VY",
+            "VE",
+            "VSL",
+            "VLL",
+            "VB",
+            "VZ",
+            "VLD",
+            "VLB",
+            "VYE",
+            "VYD"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name7": {
+        "label": 7,
+        "no": "PNDV",
+        "chinese_name": "气动隔膜阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VE"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name8": {
+        "label": 8,
+        "no": "RCDV",
+        "chinese_name": "遥控隔膜阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VY"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name9": {
+        "label": 9,
+        "no": "PN3V",
+        "chinese_name": "气动3通阀",
+        "link_num": [
+            1,
+            1,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VD"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name10": {
+        "label": 10,
+        "no": "MABV",
+        "chinese_name": "手动球阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VP",
+            "VY",
+            "VV",
+            "VE",
+            "VZ",
+            "MD",
+            "ME",
+            "VN",
+            "VB"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name11": {
+        "label": 11,
+        "no": "CSOV",
+        "chinese_name": "控制截止阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VV"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name12": {
+        "label": 12,
+        "no": "POAV",
+        "chinese_name": "动力辅助阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VV"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name13": {
+        "label": 13,
+        "no": "EGLV",
+        "chinese_name": "电动截止阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name14": {
+        "label": 14,
+        "no": "RGLV",
+        "chinese_name": "遥控截止阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VP"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name15": {
+        "label": 15,
+        "no": "PGLV",
+        "chinese_name": "气动截止阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VP",
+            "VY",
+            "VV",
+            "VZ",
+            "VB",
+            "VP"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name16": {
+        "label": 16,
+        "no": "RCBV",
+        "chinese_name": "遥控球阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VY",
+            "VL"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name17": {
+        "label": 17,
+        "no": "MBFV",
+        "chinese_name": "手动蝶阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VE",
+            "VD",
+            "VN"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name18": {
+        "label": 18,
+        "no": "DBFV",
+        "chinese_name": "隔膜蝶阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VE",
+            "VD"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name19": {
+        "label": 19,
+        "no": "CBFV",
+        "chinese_name": "手动控制蝶阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VE",
+            "VN"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name20": {
+        "label": 20,
+        "no": "EBFV",
+        "chinese_name": "电动蝶阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VN"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name21": {
+        "label": 21,
+        "no": "SCVA",
+        "chinese_name": "旋启式止回阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [
+            "E"
+        ],
+        "rectangle": "True",
+        "keywords": [
+            "VP",
+            "VL",
+            "VE",
+            "VD",
+            "VB",
+            "VN",
+            "VAN"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name22": {
+        "label": 22,
+        "no": "PRCV",
+        "chinese_name": "压力控制阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [
+            "E"
+        ],
+        "rectangle": "True",
+        "keywords": [
+            "VY",
+            "VZ"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name23": {
+        "label": 23,
+        "no": "SAFV",
+        "chinese_name": "安全阀",
+        "link_num": [
+            1,
+            1,
+            0,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VP",
+            "VV",
+            "VB"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name24": {
+        "label": 24,
+        "no": "MAPV",
+        "chinese_name": "手动旋塞阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VB",
+            "VN"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name25": {
+        "label": 25,
+        "no": "COVA",
+        "chinese_name": "耦合阀",
+        "link_num": [
+            0,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [
+            "E"
+        ],
+        "rectangle": "True",
+        "keywords": [
+            "WV"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name26": {
+        "label": 26,
+        "no": "LCSB",
+        "chinese_name": "手动泄漏收集填料函",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VP"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name27": {
+        "label": 27,
+        "no": "RCSB",
+        "chinese_name": "遥控泄漏收集填料函",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VP"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name28": {
+        "label": 28,
+        "no": "RESB",
+        "chinese_name": "遥控电动泄漏收集填料函",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VP",
+            "VB"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name29": {
+        "label": 29,
+        "no": "ELSB",
+        "chinese_name": "电动泄漏收集填料函",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VP"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name30": {
+        "label": 30,
+        "no": "MCSB",
+        "chinese_name": "手动控制泄漏收集填料函",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VB"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name31": {
+        "label": 31,
+        "no": "PCSB",
+        "chinese_name": "气动控制泄漏收集填料函",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VB"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name32": {
+        "label": 32,
+        "no": "RLSB",
+        "chinese_name": "遥控电动控制泄漏收集填料函",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VB"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name33": {
+        "label": 33,
+        "no": "P3SB",
+        "chinese_name": "气动控制3通泄漏收集填料函",
+        "link_num": [
+            1,
+            1,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VP"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name34": {
+        "label": 34,
+        "no": "DAMP",
+        "chinese_name": "风阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VAR"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name35": {
+        "label": 35,
+        "no": "SVAL",
+        "chinese_name": "安全阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VA"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name36": {
+        "label": 36,
+        "no": "VOFC",
+        "chinese_name": "容积式流量计数器",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "SD",
+            "MD"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name37": {
+        "label": 37,
+        "no": "METE",
+        "chinese_name": "仪表",
+        "link_num": [
+            0,
+            1,
+            0,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "MN",
+            "MN",
+            "LG",
+            "LP",
+            "LN",
+            "MT",
+            "MP",
+            "MV",
+            "MD",
+            "SN",
+            "YD",
+            "YT",
+            "LD",
+            "LT",
+            "YP"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name38": {
+        "label": 38,
+        "no": "OOFS",
+        "chinese_name": "通断式流量传感器",
+        "link_num": [
+            0,
+            1,
+            0,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "SD"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name39": {
+        "label": 39,
+        "no": "RENO",
+        "chinese_name": "限流喷嘴",
+        "link_num": [
+            0,
+            1,
+            0,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "DI"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name40": {
+        "label": 40,
+        "no": "FLMH",
+        "chinese_name": "流量计量孔",
+        "link_num": [
+            0,
+            1,
+            0,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "KD"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name41": {
+        "label": 41,
+        "no": "ESIN",
+        "chinese_name": "外部系统接口",
+        "link_num": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "flow_direction": [
+            "E"
+        ],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name42": {
+        "label": 42,
+        "no": "WECA",
+        "chinese_name": "焊接帽",
+        "link_num": [
+            0,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [
+            "E"
+        ],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name43": {
+        "label": 43,
+        "no": "REDU",
+        "chinese_name": "减速器",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name44": {
+        "label": 44,
+        "no": "CYLI",
+        "chinese_name": "汽缸",
+        "link_num": [
+            1,
+            3,
+            1,
+            4
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name45": {
+        "label": 45,
+        "no": "BBFL",
+        "chinese_name": "螺栓盲法兰",
+        "link_num": [
+            0,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [
+            "E"
+        ],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name46": {
+        "label": 46,
+        "no": "FLAN",
+        "chinese_name": "法兰",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name47": {
+        "label": 47,
+        "no": "PRVE",
+        "chinese_name": "压力容器",
+        "link_num": [
+            2,
+            1,
+            1,
+            3
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "BA"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name48": {
+        "label": 48,
+        "no": "SUCO",
+        "chinese_name": "表面冷凝器",
+        "link_num": [
+            1,
+            2,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "RF",
+            "MO"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name49": {
+        "label": 49,
+        "no": "STFI",
+        "chinese_name": "启动过滤器",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "FD"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name50": {
+        "label": 50,
+        "no": "PUMP",
+        "chinese_name": "泵",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [
+            "E"
+        ],
+        "rectangle": "True",
+        "keywords": [
+            "PO"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name51": {
+        "label": 51,
+        "no": "FILT",
+        "chinese_name": "吸滤器",
+        "link_num": [
+            1,
+            0,
+            3,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name52": {
+        "label": 52,
+        "no": "STTR",
+        "chinese_name": "蒸汽疏水阀",
+        "link_num": [
+            0,
+            1,
+            0,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "PU"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name53": {
+        "label": 53,
+        "no": "CAN1",
+        "chinese_name": "罐",
+        "link_num": [
+            3,
+            1,
+            2,
+            6
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "BA"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name54": {
+        "label": 54,
+        "no": "LIFI",
+        "chinese_name": "液体过滤器",
+        "link_num": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "FI"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name55": {
+        "label": 55,
+        "no": "COBO",
+        "chinese_name": "安全壳边界",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "IRC",
+            "ORC",
+            "CP"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name56": {
+        "label": 56,
+        "no": "HOSE",
+        "chinese_name": "软管",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "FL"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name57": {
+        "label": 57,
+        "no": "MSRN",
+        "chinese_name": "多级限流喷嘴",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "DI"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name58": {
+        "label": 58,
+        "no": "CAPP",
+        "chinese_name": "封端",
+        "link_num": [
+            0,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [
+            "E"
+        ],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name59": {
+        "label": 59,
+        "no": "QRCO",
+        "chinese_name": "快拆接头",
+        "link_num": [
+            0,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [
+            "E"
+        ],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name60": {
+        "label": 60,
+        "no": "MUCO",
+        "chinese_name": "移动式机组接头",
+        "link_num": [
+            0,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [
+            "E"
+        ],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name61": {
+        "label": 61,
+        "no": "CAN2",
+        "chinese_name": "罐",
+        "link_num": [
+            3,
+            2,
+            2,
+            2
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "BA"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name62": {
+        "label": 62,
+        "no": "COND",
+        "chinese_name": "冷凝器",
+        "link_num": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "GF",
+            "RF"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name63": {
+        "label": 63,
+        "no": "HEEX",
+        "chinese_name": "热交换器",
+        "link_num": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "RF"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name64": {
+        "label": 64,
+        "no": "EVAP",
+        "chinese_name": "蒸发器",
+        "link_num": [
+            0,
+            1,
+            0,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "JGB"
+        ],
+        "identify_by_tab": "True",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name65": {
+        "label": 65,
+        "no": "STGE",
+        "chinese_name": "蒸汽发生器",
+        "link_num": [
+            0,
+            0,
+            0,
+            1
+        ],
+        "flow_direction": [
+            "N"
+        ],
+        "rectangle": "True",
+        "keywords": [
+            "GV"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name66": {
+        "label": 66,
+        "no": "END1",
+        "chinese_name": "终端",
+        "link_num": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "flow_direction": [
+            "W"
+        ],
+        "rectangle": "True",
+        "keywords": [
+            "JT"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name67": {
+        "label": 67,
+        "no": "FIER",
+        "chinese_name": "过滤器",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "FP",
+            "FF"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name68": {
+        "label": 68,
+        "no": "FAN1",
+        "chinese_name": "风机",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [
+            "E"
+        ],
+        "rectangle": "True",
+        "keywords": [
+            "ZV"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name69": {
+        "label": 69,
+        "no": "DAM1",
+        "chinese_name": "风阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VAR"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name70": {
+        "label": 70,
+        "no": "EXCH",
+        "chinese_name": "换热器",
+        "link_num": [
+            2,
+            1,
+            2,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "RF"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name71": {
+        "label": 71,
+        "no": "CAN3",
+        "chinese_name": "罐",
+        "link_num": [
+            6,
+            1,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "BA"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name72": {
+        "label": 72,
+        "no": "FAN2",
+        "chinese_name": "风机",
+        "link_num": [
+            0,
+            1,
+            0,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "ZV"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name73": {
+        "label": 73,
+        "no": "MDAM",
+        "chinese_name": "手动风阀",
+        "link_num": [
+            0,
+            1,
+            0,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VAI"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name74": {
+        "label": 74,
+        "no": "ROOM",
+        "chinese_name": "房间",
+        "link_num": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "R"
+        ],
+        "identify_by_tab": "True",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name76": {
+        "label": 76,
+        "no": "MEFI",
+        "chinese_name": "金属过滤器",
+        "link_num": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "BA"
+        ],
+        "identify_by_tab": "True",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name77": {
+        "label": 77,
+        "no": "VWSC",
+        "chinese_name": "文丘里水洗器",
+        "link_num": [
+            3,
+            1,
+            3,
+            2
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "BA"
+        ],
+        "identify_by_tab": "True",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name78": {
+        "label": 78,
+        "no": "BLDI",
+        "chinese_name": "爆破盘",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "DK"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name79": {
+        "label": 79,
+        "no": "IRMS",
+        "chinese_name": "放射性监控系统",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "MA"
+        ],
+        "identify_by_tab": "True",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name80": {
+        "label": 80,
+        "no": "CHIM",
+        "chinese_name": "烟囱",
+        "link_num": [
+            0,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "True",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name81": {
+        "label": 81,
+        "no": "NIBO",
+        "chinese_name": "氮气瓶",
+        "link_num": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "BG"
+        ],
+        "identify_by_tab": "True",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name82": {
+        "label": 82,
+        "no": "VALV",
+        "chinese_name": "阀门",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VZ"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name84": {
+        "label": 84,
+        "no": "STWS",
+        "chinese_name": "汽水分离器",
+        "link_num": [
+            0,
+            1,
+            0,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "ZE"
+        ],
+        "identify_by_tab": "True",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name85": {
+        "label": 85,
+        "no": "PTWD",
+        "chinese_name": "带隔膜压力罐",
+        "link_num": [
+            0,
+            1,
+            0,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "BA"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name86": {
+        "label": 86,
+        "no": "BAST",
+        "chinese_name": "硼酸储存箱",
+        "link_num": [
+            1,
+            4,
+            2,
+            4
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "BA"
+        ],
+        "identify_by_tab": "True",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name87": {
+        "label": 87,
+        "no": "GAT1",
+        "chinese_name": "闸阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VL",
+            "VN",
+            "VD",
+            "W"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name88": {
+        "label": 88,
+        "no": "GAT2",
+        "chinese_name": "闸阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VL",
+            "VD"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name89": {
+        "label": 89,
+        "no": "GAT3",
+        "chinese_name": "闸阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VD",
+            "VL"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name90": {
+        "label": 90,
+        "no": "GAT4",
+        "chinese_name": "闸阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VL"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name91": {
+        "label": 91,
+        "no": "GAT5",
+        "chinese_name": "闸阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VL",
+            "VD",
+            "VN"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name92": {
+        "label": 92,
+        "no": "GAT6",
+        "chinese_name": "闸阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VL"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name93": {
+        "label": 93,
+        "no": "COV1",
+        "chinese_name": "调节阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VL",
+            "VD"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name94": {
+        "label": 94,
+        "no": "CHEV",
+        "chinese_name": "止回阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [
+            "E"
+        ],
+        "rectangle": "True",
+        "keywords": [
+            "VD",
+            "VN"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name95": {
+        "label": 95,
+        "no": "BUV1",
+        "chinese_name": "蝶阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VL"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name96": {
+        "label": 96,
+        "no": "SAV1",
+        "chinese_name": "安全阀",
+        "link_num": [
+            1,
+            1,
+            0,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VL"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name97": {
+        "label": 97,
+        "no": "BUV2",
+        "chinese_name": "蝶阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VL",
+            "VN"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name98": {
+        "label": 98,
+        "no": "GAT7",
+        "chinese_name": "闸阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VL"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name99": {
+        "label": 99,
+        "no": "COV2",
+        "chinese_name": "调节阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VL",
+            "VD",
+            "VN"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name100": {
+        "label": 100,
+        "no": "BUV3",
+        "chinese_name": "蝶阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VL"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name101": {
+        "label": 101,
+        "no": "GAT8",
+        "chinese_name": "闸阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VL"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name102": {
+        "label": 102,
+        "no": "ECVA",
+        "chinese_name": "电磁控制阀门",
+        "link_num": [
+            0,
+            1,
+            0,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "EL"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name103": {
+        "label": 103,
+        "no": "THOR",
+        "chinese_name": "节流孔板",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "DI"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name104": {
+        "label": 104,
+        "no": "PUM1",
+        "chinese_name": "泵",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [
+            "E"
+        ],
+        "rectangle": "True",
+        "keywords": [
+            "PO"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name105": {
+        "label": 105,
+        "no": "HPCY",
+        "chinese_name": "高压缸",
+        "link_num": [
+            1,
+            0,
+            2,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "False",
+        "keywords": [],
+        "identify_by_tab": "True",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name106": {
+        "label": 106,
+        "no": "FLOW",
+        "chinese_name": "流量器",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "KD"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name107": {
+        "label": 107,
+        "no": "COOL",
+        "chinese_name": "冷却器",
+        "link_num": [
+            0,
+            0,
+            0,
+            2
+        ],
+        "flow_direction": [
+            "N"
+        ],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name108": {
+        "label": 108,
+        "no": "MET1",
+        "chinese_name": "仪表",
+        "link_num": [
+            0,
+            1,
+            1,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "SN"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name109": {
+        "label": 109,
+        "no": "N109",
+        "chinese_name": "名称未知",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "FL"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name110": {
+        "label": 110,
+        "no": "CYER",
+        "chinese_name": "汽缸",
+        "link_num": [
+            2,
+            0,
+            2,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "True",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name111": {
+        "label": 111,
+        "no": "TLPH",
+        "chinese_name": "喉部低压加热器",
+        "link_num": [
+            2,
+            0,
+            2,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "RE"
+        ],
+        "identify_by_tab": "True",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name112": {
+        "label": 112,
+        "no": "LPDB",
+        "chinese_name": "低加疏水箱",
+        "link_num": [
+            6,
+            4,
+            2,
+            4
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "BA"
+        ],
+        "identify_by_tab": "True",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name113": {
+        "label": 113,
+        "no": "HMPC",
+        "chinese_name": "高中压缸",
+        "link_num": [
+            2,
+            4,
+            2,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "False",
+        "keywords": [],
+        "identify_by_tab": "True",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name114": {
+        "label": 114,
+        "no": "SWSR",
+        "chinese_name": "汽水分离再热器",
+        "link_num": [
+            0,
+            9,
+            0,
+            2
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "ZF"
+        ],
+        "identify_by_tab": "True",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name115": {
+        "label": 115,
+        "no": "SHDB",
+        "chinese_name": "壳体疏水箱",
+        "link_num": [
+            0,
+            7,
+            0,
+            15
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "BA"
+        ],
+        "identify_by_tab": "True",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name116": {
+        "label": 116,
+        "no": "HPHE",
+        "chinese_name": "高压加热器",
+        "link_num": [
+            6,
+            3,
+            3,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "RE"
+        ],
+        "identify_by_tab": "True",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name130": {
+        "label": 130,
+        "no": "R1SB",
+        "chinese_name": "电动控制泄漏收集填料函",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VB"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name131": {
+        "label": 131,
+        "no": "SAV1",
+        "chinese_name": "安全阀",
+        "link_num": [
+            1,
+            1,
+            0,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "RJ"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name132": {
+        "label": 132,
+        "no": "SHGV",
+        "chinese_name": "手动闸阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VE",
+            "VP"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name133": {
+        "label": 133,
+        "no": "N133",
+        "chinese_name": "名称未知",
+        "link_num": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VB",
+            "VL",
+            "VP",
+            "VD",
+            "VA",
+            "VY",
+            "CK",
+            "VN",
+            "VR",
+            "MA",
+            "VZ",
+            "VV"
+        ],
+        "identify_by_tab": "True",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name134": {
+        "label": 134,
+        "no": "END3",
+        "chinese_name": "末端",
+        "link_num": [
+            0,
+            1,
+            0,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name135": {
+        "label": 135,
+        "no": "N201",
+        "chinese_name": "名称未知",
+        "link_num": [
+            0,
+            1,
+            0,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "2",
+            "3"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name136": {
+        "label": 136,
+        "no": "END2",
+        "chinese_name": "封头",
+        "link_num": [
+            0,
+            1,
+            0,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name137": {
+        "label": 137,
+        "no": "N203",
+        "chinese_name": "名称未知",
+        "link_num": [
+            2,
+            1,
+            2,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name138": {
+        "label": 138,
+        "no": "SPNO",
+        "chinese_name": "喷淋嘴",
+        "link_num": [
+            0,
+            0,
+            0,
+            1
+        ],
+        "flow_direction": [
+            "S"
+        ],
+        "rectangle": "True",
+        "keywords": [
+            "PMC"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name139": {
+        "label": 139,
+        "no": "SUAS",
+        "chinese_name": "送风轴",
+        "link_num": [
+            4,
+            1,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "True",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name140": {
+        "label": 140,
+        "no": "EXJO",
+        "chinese_name": "伸缩缝",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "False",
+        "description": "",
+        "samples_path": []
+    },
+    "name141": {
+        "label": 141,
+        "no": "FIER",
+        "chinese_name": "滤网",
+        "link_num": [
+            2,
+            0,
+            1,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "True",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name142": {
+        "label": 142,
+        "no": "N208",
+        "chinese_name": "软管",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "False",
+        "description": "",
+        "samples_path": []
+    },
+    "name143": {
+        "label": 143,
+        "no": "RCEV",
+        "chinese_name": "遥控电动截止阀",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "VB"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name144": {
+        "label": 144,
+        "no": "N210",
+        "chinese_name": "名称未知",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "False",
+        "description": "",
+        "samples_path": []
+    },
+    "name145": {
+        "label": 145,
+        "no": "N211",
+        "chinese_name": "名称未知",
+        "link_num": [
+            1,
+            0,
+            1,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name146": {
+        "label": 146,
+        "no": "E212",
+        "chinese_name": "末端",
+        "link_num": [
+            0,
+            0,
+            0,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name147": {
+        "label": 147,
+        "no": "VFIN",
+        "chinese_name": "视流指示器",
+        "link_num": [
+            0,
+            1,
+            0,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "JD"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "False",
+        "description": "",
+        "samples_path": []
+    },
+    "name148": {
+        "label": 148,
+        "no": "N214",
+        "chinese_name": "名称未知",
+        "link_num": [
+            0,
+            1,
+            0,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "BA"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name149": {
+        "label": 149,
+        "no": "N215",
+        "chinese_name": "名称未知",
+        "link_num": [
+            3,
+            3,
+            1,
+            3
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "CIS"
+        ],
+        "identify_by_tab": "True",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name150": {
+        "label": 150,
+        "no": "N216",
+        "chinese_name": "名称未知",
+        "link_num": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name151": {
+        "label": 151,
+        "no": "ARR1",
+        "chinese_name": "实线箭头",
+        "link_num": [
+            0,
+            0,
+            0,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name152": {
+        "label": 152,
+        "no": "ARR2",
+        "chinese_name": "虚线箭头",
+        "link_num": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name153": {
+        "label": 153,
+        "no": "QBOX",
+        "chinese_name": "四边形框",
+        "link_num": [
+            0,
+            1,
+            0,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "PN"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name154": {
+        "label": 154,
+        "no": "TRIA",
+        "chinese_name": "三角形",
+        "link_num": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "NOTE"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name155": {
+        "label": 155,
+        "no": "N221",
+        "chinese_name": "名称未知",
+        "link_num": [
+            0,
+            1,
+            0,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name156": {
+        "label": 156,
+        "no": "EQTR",
+        "chinese_name": "名称未知",
+        "link_num": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "C"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    },
+    "name157": {
+        "label": 157,
+        "no": "N902",
+        "chinese_name": "名称未知",
+        "link_num": [
+            0,
+            1,
+            0,
+            1
+        ],
+        "flow_direction": [],
+        "rectangle": "True",
+        "keywords": [
+            "MA"
+        ],
+        "identify_by_tab": "False",
+        "link_direction": [
+            "E",
+            "S",
+            "W",
+            "N"
+        ],
+        "type": "cell",
+        "has_tab": "False",
+        "height_width": [],
+        "show": "True",
+        "description": "",
+        "samples_path": []
+    }
+}

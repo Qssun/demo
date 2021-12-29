@@ -1,0 +1,18 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.7.0",
+    "heartbeatAt": "2021-12-24T08:02:42.608953",
+    "startedAt": "2021-12-24T08:02:36.417155",
+    "docker": null,
+    "gpu": "GeForce GT 710",
+    "gpu_count": 1,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "train.py",
+    "codePath": "train.py",
+    "host": "DESKTOP-R0C880I",
+    "username": "Sun",
+    "executable": "D:\\Python37\\python.exe"
+}

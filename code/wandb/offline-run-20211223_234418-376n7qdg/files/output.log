@@ -1,0 +1,66 @@
+WARNING: --img-size 1000 must be multiple of max stride 32, updating to 1024
+WARNING: --img-size 1000 must be multiple of max stride 32, updating to 1024
+Overriding model.yaml nc=80 with nc=158
+                 from  n    params  module                                  arguments
+  0                -1  1      3520  models.common.Focus                     [3, 32, 3]
+  1                -1  1     18560  models.common.Conv                      [32, 64, 3, 2]
+  2                -1  1     18816  models.common.C3                        [64, 64, 1]
+  3                -1  1     73984  models.common.Conv                      [64, 128, 3, 2]
+  4                -1  1    156928  models.common.C3                        [128, 128, 3]
+  5                -1  1    295424  models.common.Conv                      [128, 256, 3, 2]
+  6                -1  1    625152  models.common.C3                        [256, 256, 3]
+  7                -1  1   1180672  models.common.Conv                      [256, 512, 3, 2]
+  8                -1  1    656896  models.common.SPP                       [512, 512, [5, 9, 13]]
+  9                -1  1   1182720  models.common.C3                        [512, 512, 1, False]
+ 10                -1  1    131584  models.common.Conv                      [512, 256, 1, 1]
+ 11                -1  1         0  torch.nn.modules.upsampling.Upsample    [None, 2, 'nearest']
+ 12           [-1, 6]  1         0  models.common.Concat                    [1]
+ 13                -1  1    361984  models.common.C3                        [512, 256, 1, False]
+ 14                -1  1     33024  models.common.Conv                      [256, 128, 1, 1]
+ 15                -1  1         0  torch.nn.modules.upsampling.Upsample    [None, 2, 'nearest']
+ 16           [-1, 4]  1         0  models.common.Concat                    [1]
+ 17                -1  1     90880  models.common.C3                        [256, 128, 1, False]
+ 18                -1  1    147712  models.common.Conv                      [128, 128, 3, 2]
+ 19          [-1, 14]  1         0  models.common.Concat                    [1]
+ 20                -1  1    296448  models.common.C3                        [256, 256, 1, False]
+ 21                -1  1    590336  models.common.Conv                      [256, 256, 3, 2]
+ 22          [-1, 10]  1         0  models.common.Concat                    [1]
+ 23                -1  1   1182720  models.common.C3                        [512, 512, 1, False]
+ 24      [17, 20, 23]  1    439611  models.yolo.Detect                      [158, [[10, 13, 16, 30, 33, 23], [30, 61, 62, 45, 59, 119], [116, 90, 156, 198, 373, 326]], [128, 256, 512]]
+Model Summary: 283 layers, 7486971 parameters, 7486971 gradients
+Transferred 356/362 items from yolov5s.pt
+Scaled weight_decay = 0.0005
+Optimizer groups: 62 .bias, 62 conv.weight, 59 other
+[34m[1mtrain: [39m[22mScanning '..\data\dataset\train\labels\mesh' images and labels...4920 found, 0 missing, 34 empty, 0 corrupted: 100%|█| 4920/4920 [00:16<00:00, 291.54i
+[34m[1mtrain: [39m[22mNew cache created: ..\data\dataset\train\labels\mesh.cache
+Traceback (most recent call last):
+  File "C:\Users\caiwd\AppData\Local\Programs\Python\Python37\lib\multiprocessing\popen_spawn_win32.py", line 89, in __init__
+    reduction.dump(process_obj, to_child)
+  File "C:\Users\caiwd\AppData\Local\Programs\Python\Python37\lib\multiprocessing\reduction.py", line 60, in dump
+    ForkingPickler(file, protocol).dump(obj)
+BrokenPipeError: [Errno 32] Broken pipe
+During handling of the above exception, another exception occurred:
+Traceback (most recent call last):
+  File "train.py", line 542, in <module>
+    train(hyp, opt, device, tb_writer)
+  File "train.py", line 194, in train
+    image_weights=opt.image_weights, quad=opt.quad, prefix=colorstr('train: '))
+  File "C:\Users\caiwd\Desktop\demo\code\utils\datasets.py", line 91, in create_dataloader
+    collate_fn=LoadImagesAndLabels.collate_fn4 if quad else LoadImagesAndLabels.collate_fn)
+  File "C:\Users\caiwd\Desktop\demo\code\utils\datasets.py", line 104, in __init__
+    self.iterator = super().__iter__()
+  File "C:\Users\caiwd\AppData\Local\Programs\Python\Python37\lib\site-packages\torch\utils\data\dataloader.py", line 352, in __iter__
+    return self._get_iterator()
+  File "C:\Users\caiwd\AppData\Local\Programs\Python\Python37\lib\site-packages\torch\utils\data\dataloader.py", line 294, in _get_iterator
+    return _MultiProcessingDataLoaderIter(self)
+  File "C:\Users\caiwd\AppData\Local\Programs\Python\Python37\lib\site-packages\torch\utils\data\dataloader.py", line 801, in __init__
+    w.start()
+  File "C:\Users\caiwd\AppData\Local\Programs\Python\Python37\lib\multiprocessing\process.py", line 112, in start
+    self._popen = self._Popen(self)
+  File "C:\Users\caiwd\AppData\Local\Programs\Python\Python37\lib\multiprocessing\context.py", line 223, in _Popen
+    return _default_context.get_context().Process._Popen(process_obj)
+  File "C:\Users\caiwd\AppData\Local\Programs\Python\Python37\lib\multiprocessing\context.py", line 322, in _Popen
+    return Popen(process_obj)
+  File "C:\Users\caiwd\AppData\Local\Programs\Python\Python37\lib\multiprocessing\popen_spawn_win32.py", line 89, in __init__
+    reduction.dump(process_obj, to_child)
+KeyboardInterrupt
